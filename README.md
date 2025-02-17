@@ -15,6 +15,9 @@ This Excel-based Population Analysis Dashboard visualizes the population trends 
 ## PROJECT REFERENCE
 - <a href="https://youtu.be/QMjFi4ZeG4I?si=opuFzLnyISkSO4b7"> "PROJECT DATA" </a>
 
+## DASHBOARD
+https://github.com/chandradangwal7/INDIA-UNITED-STATES-POPULATION-DATA-ANALYSIS-DASHBOARD-EXCEL-PROJECT-2/blob/main/INDIA%20UNITED%20STATE%20POPULATION%20DASHBOARD%20IMAGE.png 
+
 
 
 
