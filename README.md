@@ -18,6 +18,9 @@ This Excel-based Population Analysis Dashboard visualizes the population trends 
 ## DASHBOARD 
 ![INDIA UNITED STATE POPULATION DASHBOARD IMAGE](https://github.com/user-attachments/assets/a47caa95-e9ec-4a56-9937-1de288191500)
 
+#CONCLUSION
+This Excel-based Population Analysis Dashboard provides a clear and interactive way to explore and compare the population data of India and the United States. By using slicers, filters, and map visualizations, users can easily analyze state-wise population trends. Future enhancements can include historical trends and additional data visualizations to further improve insights.
+
 
 
 
